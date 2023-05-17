@@ -20,3 +20,6 @@ https://asciinema.org/a/uyBN0TGyWtHmIEXQE0gbudNnk
 
 **ссылка на asciinema brain_gcd**
 https://asciinema.org/a/Qi0C03PWygiJxdqIrHgmsAnW1
+
+**ссылка на asciinema brain_progression**
+https://asciinema.org/a/V1HYYufzh0U1pW5MfE6nv98C9
