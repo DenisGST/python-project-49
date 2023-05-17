@@ -10,5 +10,8 @@
 
 # pip install --upgrade --force-reinstall git+https://github.com/hexlet-boilerplates/python-package.git
 
-**ссылка на asciinema**
+**Включить запись asciinema rec**
+
+**ссылка на asciinema урок 5**
 https://asciinema.org/a/7C3Mqu6nqaziEoawzpKJmabqs
+
