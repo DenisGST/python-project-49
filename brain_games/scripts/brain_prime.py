@@ -25,7 +25,7 @@ def IsPrime(n):
     d = 2
     while n % d != 0:
         d += 1
-    if (d ==n ):
+    if (d == n):
         return 'yes'
     else:
         return 'no'
