@@ -23,3 +23,6 @@ https://asciinema.org/a/Qi0C03PWygiJxdqIrHgmsAnW1
 
 **ссылка на asciinema brain_progression**
 https://asciinema.org/a/V1HYYufzh0U1pW5MfE6nv98C9
+
+**ссылка на asciinema brain_prime**
+https://asciinema.org/a/gOv9GFPnetFBZYrW6w4y4PpDJ
